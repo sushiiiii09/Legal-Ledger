@@ -12,7 +12,7 @@ This system should ensure that legal records are securely stored, efficiently ma
 Its main objective is to set new standards for data security and privacy, benefiting industries with sensitive information. The system's efficiency and cost-saving features are applicable to government agencies, healthcare institutions, financial services providers, promoting innovation in both public and private sectors. Blockchain technology ensures data integrity, transparency, cross-border collaboration, secure information exchange.
 
 ## Challenges we faced 😵:
-One of the primary obstacles we encountered was figuring out how to store our files in the blockchain and deciding between IPFS and awarwe. 
+One of the primary obstacles we encountered was figuring out how to store our files in the blockchain and deciding between IPFS and arweave. 
 <br>
 Another challenge that caused us a lot of frustration was finding a way to make each file upload unique to a specific user. 
 Even if the user logged out, they were still able to access other documents through the hash value. To ensure that only verified users could retrieve their own documents, we attempted to manipulate the metadata.
